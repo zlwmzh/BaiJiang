@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.drawee.view.SimpleDraweeView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    fresco:fadeDuration="800"
+    fresco:placeholderImage="@mipmap/bookshelf_card_mode_bg"
+    fresco:placeholderImageScaleType="centerCrop">
+</com.facebook.drawee.view.SimpleDraweeView>
