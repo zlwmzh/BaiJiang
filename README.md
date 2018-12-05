@@ -430,4 +430,3 @@ PagerSnapHelper pagerSnapHelper = new PagerSnapHelper(){
 ```
 ![最终效果](https://img-blog.csdnimg.cn/20181204161547314.gif)
 这样我们的这个效果就完成了。  
-项目地址如下，欢迎大家fork:
